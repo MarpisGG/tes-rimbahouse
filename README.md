@@ -21,13 +21,13 @@ Aplikasi manajemen tugas (Task Management) dengan fitur CRUD, role & permission,
 #### Setup Project
 
 ### 1. Clone repository
-git clone https://github.com/username/tes-rimbahouse.git
-cd tes-rimbahouse
+- git clone https://github.com/username/tes-rimbahouse.git
+- cd tes-rimbahouse
 
 ### 2. Install Dependencies
-composer install
-npm install
-npm run dev
+- composer install
+- npm install
+- npm run dev
 
 ### 3. Copy file .env.example ke .env dan sesuaikan konfigurasi database dan lainnya
 cp .env.example .env
